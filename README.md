@@ -59,3 +59,14 @@ This is a complete Bank Management System developed using C# (Windows Forms) wit
 ## Home Screen
 <img width="497" alt="Image" src="https://github.com/user-attachments/assets/23108c44-baf1-4954-a282-86d7b6493ea5" />
 
+## Clients Screen
+<img width="497" alt="Image" src="https://github.com/user-attachments/assets/c0110aa4-f13f-4b34-b01e-6f285488dfeb" />
+
+## Users Screen
+<img width="497" alt="Image" src="https://github.com/user-attachments/assets/5bf30e78-705b-4a13-8229-467bf501b124" />
+
+## Transactions Screen
+<img width="497" alt="Image" src="https://github.com/user-attachments/assets/416bdafd-504c-4684-baf2-f051e15f9c55" />
+
+## Login Registers Screen
+<img width="497" alt="Image" src="https://github.com/user-attachments/assets/75ffec48-828f-4677-8bb8-926e86a5f7ac" />
