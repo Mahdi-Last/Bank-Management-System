@@ -53,5 +53,9 @@ This is a complete Bank Management System developed using C# (Windows Forms) wit
 3. Set up the SQL Server database 
 4. Build and run the project
 
-<img width="497" alt="Image" src="https://github.com/user-attachments/assets/23108c44-baf1-4954-a282-86d7b6493ea5" />
+## Login Screen
 <img width="390" alt="Image" src="https://github.com/user-attachments/assets/1f9594b6-f446-4ab4-ba62-f7f511d84724" />
+
+## Home Screen
+<img width="497" alt="Image" src="https://github.com/user-attachments/assets/23108c44-baf1-4954-a282-86d7b6493ea5" />
+
