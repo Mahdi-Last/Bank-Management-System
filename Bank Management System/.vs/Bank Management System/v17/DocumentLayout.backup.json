@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Course 18\\Bank\\Bank Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|c:\\course 18\\bank\\bank management system\\forms\\clients\\frmclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\clients\\frmclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\users\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\users\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|c:\\course 18\\bank\\bank management system\\forms\\users\\frmupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\users\\frmupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\users\\frmupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\users\\frmupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\users\\frmaddnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\users\\frmaddnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\users\\frmaddnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\users\\frmaddnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|c:\\course 18\\bank\\bank management system\\forms\\clients\\frmclientslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\clients\\frmclientslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\clients\\frmaddnewclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\clients\\frmaddnewclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\clsplaceholdermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:clsplaceholdermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\clients\\frmaddnewclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\clients\\frmaddnewclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\frmmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:frmmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\myscreen\\frmmyscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\myscreen\\frmmyscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\myscreen\\frmmyscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\myscreen\\frmmyscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\frmmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:frmmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\clients\\frmupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\clients\\frmupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\clients\\frmupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\clients\\frmupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\users\\frmdeleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\users\\frmdeleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\users\\frmdeleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\users\\frmdeleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\users\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\users\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|C:\\Course 18\\Bank\\Bank Management System\\forms\\clients\\frmclientslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CAC59F-621F-4284-8868-E5D83BF4AC02}|BankPresentaionLayer.csproj|solutionrelative:forms\\clients\\frmclientslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsPlaceholderManager.cs",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\clsPlaceholderManager.cs",
+              "RelativeDocumentMoniker": "clsPlaceholderManager.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\clsPlaceholderManager.cs",
+              "RelativeToolTip": "clsPlaceholderManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:55:50.193Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmUpdateUser.cs",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmUpdateUser.cs",
+              "RelativeDocumentMoniker": "Forms\\Users\\FrmUpdateUser.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmUpdateUser.cs",
+              "RelativeToolTip": "Forms\\Users\\FrmUpdateUser.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAgwM4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:03:40.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmUpdateUser.cs [Design]",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmUpdateUser.cs",
+              "RelativeDocumentMoniker": "Forms\\Users\\FrmUpdateUser.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmUpdateUser.cs [Design]",
+              "RelativeToolTip": "Forms\\Users\\FrmUpdateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:51:45.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmUsers.cs",
+              "RelativeDocumentMoniker": "Forms\\Users\\FrmUsers.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmUsers.cs [Design]*",
+              "RelativeToolTip": "Forms\\Users\\FrmUsers.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:58:27.21Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmClients.cs [Design]",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmClients.cs",
+              "RelativeDocumentMoniker": "Forms\\Clients\\FrmClients.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmClients.cs [Design]*",
+              "RelativeToolTip": "Forms\\Clients\\FrmClients.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:02:57.418Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAddNewUser.cs",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmAddNewUser.cs",
+              "RelativeDocumentMoniker": "Forms\\Users\\FrmAddNewUser.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmAddNewUser.cs",
+              "RelativeToolTip": "Forms\\Users\\FrmAddNewUser.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAABQPeIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:49:22.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAddNewUser.cs [Design]",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmAddNewUser.cs",
+              "RelativeDocumentMoniker": "Forms\\Users\\FrmAddNewUser.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmAddNewUser.cs [Design]",
+              "RelativeToolTip": "Forms\\Users\\FrmAddNewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:49:21.267Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmClientsList.cs [Design]",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmClientsList.cs",
+              "RelativeDocumentMoniker": "Forms\\Clients\\FrmClientsList.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmClientsList.cs [Design]",
+              "RelativeToolTip": "Forms\\Clients\\FrmClientsList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:02:58.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAddNewClient.cs [Design]",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmAddNewClient.cs",
+              "RelativeDocumentMoniker": "Forms\\Clients\\FrmAddNewClient.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmAddNewClient.cs [Design]",
+              "RelativeToolTip": "Forms\\Clients\\FrmAddNewClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:53:00.619Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAddNewClient.cs",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmAddNewClient.cs",
+              "RelativeDocumentMoniker": "Forms\\Clients\\FrmAddNewClient.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmAddNewClient.cs",
+              "RelativeToolTip": "Forms\\Clients\\FrmAddNewClient.cs",
+              "ViewState": "AgIAACEAAAAAWWZmZiYjwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:53:02.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmMainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\FrmMainMenu.cs",
+              "RelativeDocumentMoniker": "FrmMainMenu.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\FrmMainMenu.cs [Design]",
+              "RelativeToolTip": "FrmMainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:36:24.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMyScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\MyScreen\\FrmMyScreen.cs",
+              "RelativeDocumentMoniker": "Forms\\MyScreen\\FrmMyScreen.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\MyScreen\\FrmMyScreen.cs [Design]",
+              "RelativeToolTip": "Forms\\MyScreen\\FrmMyScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:09:08.409Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmMyScreen.cs",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\MyScreen\\FrmMyScreen.cs",
+              "RelativeDocumentMoniker": "Forms\\MyScreen\\FrmMyScreen.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\MyScreen\\FrmMyScreen.cs",
+              "RelativeToolTip": "Forms\\MyScreen\\FrmMyScreen.cs",
+              "ViewState": "AgIAAAcAAADMZmZmZmYrwCwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:23:54.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmMainMenu.cs",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\FrmMainMenu.cs",
+              "RelativeDocumentMoniker": "FrmMainMenu.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\FrmMainMenu.cs",
+              "RelativeToolTip": "FrmMainMenu.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAUwOwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:24:58.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmUpdateClient.cs",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmUpdateClient.cs",
+              "RelativeDocumentMoniker": "Forms\\Clients\\FrmUpdateClient.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmUpdateClient.cs",
+              "RelativeToolTip": "Forms\\Clients\\FrmUpdateClient.cs",
+              "ViewState": "AgIAAIQAAAAAuJmZmZnZv5MAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:52:14.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmUpdateClient.cs [Design]",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmUpdateClient.cs",
+              "RelativeDocumentMoniker": "Forms\\Clients\\FrmUpdateClient.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmUpdateClient.cs [Design]",
+              "RelativeToolTip": "Forms\\Clients\\FrmUpdateClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:52:12.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmDeleteUser.cs",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmDeleteUser.cs",
+              "RelativeDocumentMoniker": "Forms\\Users\\FrmDeleteUser.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmDeleteUser.cs",
+              "RelativeToolTip": "Forms\\Users\\FrmDeleteUser.cs",
+              "ViewState": "AgIAAB4AAAAA0MzMzMzgvzAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:49:35.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmDeleteUser.cs [Design]",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmDeleteUser.cs",
+              "RelativeDocumentMoniker": "Forms\\Users\\FrmDeleteUser.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmDeleteUser.cs [Design]",
+              "RelativeToolTip": "Forms\\Users\\FrmDeleteUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:49:33.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmClientsList.cs",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmClientsList.cs",
+              "RelativeDocumentMoniker": "Forms\\Clients\\FrmClientsList.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Clients\\FrmClientsList.cs",
+              "RelativeToolTip": "Forms\\Clients\\FrmClientsList.cs",
+              "ViewState": "AgIAABwAAABgZ2ZmZuY4wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:35:26.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmUsers.cs",
+              "DocumentMoniker": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmUsers.cs",
+              "RelativeDocumentMoniker": "Forms\\Users\\FrmUsers.cs",
+              "ToolTip": "C:\\Course 18\\Bank\\Bank Management System\\Forms\\Users\\FrmUsers.cs*",
+              "RelativeToolTip": "Forms\\Users\\FrmUsers.cs*",
+              "ViewState": "AgIAABMAAAAAkpmZmZkMwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:23:54.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

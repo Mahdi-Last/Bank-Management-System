@@ -1,0 +1,9 @@
+C:\Course 18\Bank\BankBusinessLayer\bin\Debug\BankBusinessLayer.dll
+C:\Course 18\Bank\BankBusinessLayer\bin\Debug\BankBusinessLayer.pdb
+C:\Course 18\Bank\BankBusinessLayer\bin\Debug\BankDataAccessLayer.dll
+C:\Course 18\Bank\BankBusinessLayer\bin\Debug\BankDataAccessLayer.pdb
+C:\Course 18\Bank\BankBusinessLayer\obj\Debug\BankBusinessLayer.csproj.AssemblyReference.cache
+C:\Course 18\Bank\BankBusinessLayer\obj\Debug\BankBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Course 18\Bank\BankBusinessLayer\obj\Debug\BankBusi.6BD26524.Up2Date
+C:\Course 18\Bank\BankBusinessLayer\obj\Debug\BankBusinessLayer.dll
+C:\Course 18\Bank\BankBusinessLayer\obj\Debug\BankBusinessLayer.pdb

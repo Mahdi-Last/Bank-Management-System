@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D2CAC59F-621F-4284-8868-E5D83BF4AC02}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Bank_Management_System</RootNamespace>
+    <AssemblyName>Bank Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsPlaceholderManager.cs" />
+    <Compile Include="Forms\Clients\FrmAddNewClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Clients\FrmAddNewClient.Designer.cs">
+      <DependentUpon>FrmAddNewClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Clients\FrmClientsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Clients\FrmClientsList.Designer.cs">
+      <DependentUpon>FrmClientsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Clients\FrmClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Clients\FrmClients.Designer.cs">
+      <DependentUpon>FrmClients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Clients\FrmDeleteClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Clients\FrmDeleteClient.Designer.cs">
+      <DependentUpon>FrmDeleteClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Clients\FrmFindClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Clients\FrmFindClient.Designer.cs">
+      <DependentUpon>FrmFindClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Clients\FrmUpdateClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Clients\FrmUpdateClient.Designer.cs">
+      <DependentUpon>FrmUpdateClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Home\FrmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Home\FrmHome.Designer.cs">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LoginRegisters\FrmLoginRegisters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LoginRegisters\FrmLoginRegisters.Designer.cs">
+      <DependentUpon>FrmLoginRegisters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MyScreen\FrmMyScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MyScreen\FrmMyScreen.Designer.cs">
+      <DependentUpon>FrmMyScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmDeposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmDeposit.Designer.cs">
+      <DependentUpon>FrmDeposit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmTotalBalances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmTotalBalances.Designer.cs">
+      <DependentUpon>FrmTotalBalances.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmTransactions.Designer.cs">
+      <DependentUpon>FrmTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmTransfer.Designer.cs">
+      <DependentUpon>FrmTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmTransferLogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmTransferLogs.Designer.cs">
+      <DependentUpon>FrmTransferLogs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmWithdraw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Transactions\FrmWithdraw.Designer.cs">
+      <DependentUpon>FrmWithdraw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Users\FrmAddNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Users\FrmAddNewUser.Designer.cs">
+      <DependentUpon>FrmAddNewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Users\FrmDeleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Users\FrmDeleteUser.Designer.cs">
+      <DependentUpon>FrmDeleteUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Users\FrmFindUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Users\FrmFindUser.Designer.cs">
+      <DependentUpon>FrmFindUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Users\FrmPermissions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Users\FrmPermissions.Designer.cs">
+      <DependentUpon>FrmPermissions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Users\FrmUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Users\FrmUpdateUser.Designer.cs">
+      <DependentUpon>FrmUpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Users\FrmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Users\FrmUsers.Designer.cs">
+      <DependentUpon>FrmUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Users\FrmUsersList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Users\FrmUsersList.Designer.cs">
+      <DependentUpon>FrmUsersList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Login\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMainMenu.Designer.cs">
+      <DependentUpon>FrmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Clients\FrmAddNewClient.resx">
+      <DependentUpon>FrmAddNewClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Clients\FrmClientsList.resx">
+      <DependentUpon>FrmClientsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Clients\FrmClients.resx">
+      <DependentUpon>FrmClients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Clients\FrmDeleteClient.resx">
+      <DependentUpon>FrmDeleteClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Clients\FrmFindClient.resx">
+      <DependentUpon>FrmFindClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Clients\FrmUpdateClient.resx">
+      <DependentUpon>FrmUpdateClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Home\FrmHome.resx">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LoginRegisters\FrmLoginRegisters.resx">
+      <DependentUpon>FrmLoginRegisters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MyScreen\FrmMyScreen.resx">
+      <DependentUpon>FrmMyScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Transactions\FrmDeposit.resx">
+      <DependentUpon>FrmDeposit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Transactions\FrmTotalBalances.resx">
+      <DependentUpon>FrmTotalBalances.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Transactions\FrmTransactions.resx">
+      <DependentUpon>FrmTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Transactions\FrmTransfer.resx">
+      <DependentUpon>FrmTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Transactions\FrmTransferLogs.resx">
+      <DependentUpon>FrmTransferLogs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Transactions\FrmWithdraw.resx">
+      <DependentUpon>FrmWithdraw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Users\FrmAddNewUser.resx">
+      <DependentUpon>FrmAddNewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Users\FrmDeleteUser.resx">
+      <DependentUpon>FrmDeleteUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Users\FrmFindUser.resx">
+      <DependentUpon>FrmFindUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Users\FrmPermissions.resx">
+      <DependentUpon>FrmPermissions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Users\FrmUpdateUser.resx">
+      <DependentUpon>FrmUpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Users\FrmUsers.resx">
+      <DependentUpon>FrmUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Users\FrmUsersList.resx">
+      <DependentUpon>FrmUsersList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMainMenu.resx">
+      <DependentUpon>FrmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BankBusinessLayer\BankBusinessLayer.csproj">
+      <Project>{412aee6e-ed24-4046-9aad-6f2e77f06299}</Project>
+      <Name>BankBusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-male-user-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-activity-history-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-group-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-logout-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-transactions-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-settings-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bank-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-list-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-search-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-update-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-update-53.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bank-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bank-100 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-deposit-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-withdraw-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-money-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-transfer-money-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-history-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-closed-eye-24.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\photo_2025-05-24_01-21-04.jpg" />
+    <None Include="Resources\bank1.png" />
+    <None Include="Resources\icons8-closed-eye-241.png" />
+    <None Include="Resources\icons8-closed-eye-242.png" />
+    <None Include="Resources\icons8-delete-641.png" />
+    <None Include="Resources\icons8-find-64.png" />
+    <None Include="Resources\icons8-list-641.png" />
+    <None Include="Resources\icons8-add-male-user-641.png" />
+    <None Include="Resources\icons8-client-35.png" />
+    <None Include="Resources\icons8-client-351.png" />
+    <None Include="Resources\icons8-clock-35.png" />
+    <None Include="Resources\icons8-clock-351.png" />
+    <None Include="Resources\icons8-linkedin-100.png" />
+    <None Include="Resources\icons8-github-64.png" />
+    <None Include="Resources\icons8-linkedin-64.png" />
+    <Content Include="Resources\icons8-millenium-eye-24.png" />
+    <None Include="Resources\icons8-millenium-eye-241.png" />
+    <None Include="Resources\icons8-persons-64.png" />
+    <None Include="Resources\icons8-update-641.png" />
+    <None Include="Resources\icons8-update-50.png" />
+    <None Include="Resources\icons8-money-35.png" />
+    <None Include="Resources\icons8-shield-35.png" />
+    <None Include="Resources\icons8-transfer-35.png" />
+    <None Include="Resources\icons8-transfer-64.png" />
+    <Content Include="Resources\LoginIcons\icons8-millenium-eye-24.png" />
+    <Content Include="Resources\LoginIcons\icons8-closed-eye-24.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
