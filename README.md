@@ -36,6 +36,7 @@ This is a complete Bank Management System developed using C# (Windows Forms) wit
 ### Authentication & Authorization
 - Login system with logging of login attempts.
 - User roles and permissions to restrict sensitive operations.
+-Login protection: After 3 failed login attempts, the application will automatically close.
 
 ---
 
