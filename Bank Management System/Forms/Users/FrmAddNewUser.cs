@@ -49,7 +49,7 @@ namespace Bank_Management_System.Forms.Users
             }
             _User1.LastName = txtLastName.Text;
 
-               if (string.IsNullOrWhiteSpace(txtEmail.Text))
+                    if (string.IsNullOrWhiteSpace(txtEmail.Text))
                 {
                     MessageBox.Show("Email is required!");
                     return false;
