@@ -46,20 +46,31 @@ namespace Bank_Management_System.Forms.Clients
             }
             _Client1.LastName = txtLastName.Text;
 
-            if (string.IsNullOrWhiteSpace(txtEmail.Text))
+                      if (string.IsNullOrWhiteSpace(txtEmail.Text))
             {
                 MessageBox.Show("Email is required!");
                 return false;
             }
+            else if (txtEmail.Text.Length < 8)
+            {
+                MessageBox.Show("Email is less than 8!");
+                return false;
+            }
             _Client1.Email = txtEmail.Text;
-
-
+            
+            
             if (string.IsNullOrWhiteSpace(txtPhone.Text))
             {
                 MessageBox.Show("Phone number is required!");
                 return false;
             }
+            else if (txtPhone.Text.Length < 8)
+            {
+                MessageBox.Show("Phone Number is less than 8!");
+                return false;
+            }
             _Client1.PhoneNumber = txtPhone.Text;
+
 
 
             if (!decimal.TryParse(txtBalance.Text.Trim(), NumberStyles.Number, CultureInfo.InvariantCulture, out decimal balance))
