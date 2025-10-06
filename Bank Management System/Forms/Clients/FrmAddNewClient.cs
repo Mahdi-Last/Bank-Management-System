@@ -64,16 +64,6 @@ namespace Bank_Management_System.Forms.Clients
                 MessageBox.Show("Phone number is required!");
                 return false;
             }
-            else if (txtPhone.Text.Length < 8)
-            {
-                MessageBox.Show("Phone Number is less than 8!");
-                return false;
-            }
-<<<<<<< HEAD
-
-
-=======
->>>>>>> fe95f6931343040022dbfd16b8f812f3c66bf50a
             _Client1.PhoneNumber = txtPhone.Text;
 
 
