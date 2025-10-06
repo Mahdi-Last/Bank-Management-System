@@ -51,6 +51,11 @@ namespace Bank_Management_System.Forms.Clients
                 MessageBox.Show("Email is required!");
                 return false;
             }
+            else if (txtEmail.Text.Length < 8)
+            {
+                MessageBox.Show("Email is less than 8!");
+                return false;
+            }
             _Client1.Email = txtEmail.Text;
 
 
@@ -59,6 +64,13 @@ namespace Bank_Management_System.Forms.Clients
                 MessageBox.Show("Phone number is required!");
                 return false;
             }
+            else if (txtPhone.Text.Length < 8)
+            {
+                MessageBox.Show("Phone Number is less than 8!");
+                return false;
+            }
+
+
             _Client1.PhoneNumber = txtPhone.Text;
 
 

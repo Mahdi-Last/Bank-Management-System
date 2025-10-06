@@ -36,3 +36,42 @@ C:\Course 18\Bank\Bank Management System\obj\Debug\BankPres.C122C541.Up2Date
 C:\Course 18\Bank\Bank Management System\obj\Debug\Bank Management System.exe
 C:\Course 18\Bank\Bank Management System\obj\Debug\Bank Management System.pdb
 C:\Course 18\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.MyScreen.FrmMyScreen.resources
+C:\C# Projects\Bank\Bank Management System\bin\Debug\Bank Management System.exe.config
+C:\C# Projects\Bank\Bank Management System\bin\Debug\Bank Management System.exe
+C:\C# Projects\Bank\Bank Management System\bin\Debug\Bank Management System.pdb
+C:\C# Projects\Bank\Bank Management System\bin\Debug\BankBusinessLayer.dll
+C:\C# Projects\Bank\Bank Management System\bin\Debug\BankDataAccessLayer.dll
+C:\C# Projects\Bank\Bank Management System\bin\Debug\BankBusinessLayer.pdb
+C:\C# Projects\Bank\Bank Management System\bin\Debug\BankDataAccessLayer.pdb
+C:\C# Projects\Bank\Bank Management System\obj\Debug\BankPresentaionLayer.csproj.AssemblyReference.cache
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank Management System.exe.config
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Clients.FrmAddNewClient.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Clients.FrmClientsList.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Clients.FrmClients.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Clients.FrmDeleteClient.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Clients.FrmFindClient.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Clients.FrmUpdateClient.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Home.FrmHome.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.LoginRegisters.FrmLoginRegisters.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.MyScreen.FrmMyScreen.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Transactions.FrmDeposit.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Transactions.FrmTotalBalances.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Transactions.FrmTransactions.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Transactions.FrmTransfer.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Transactions.FrmTransferLogs.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Transactions.FrmWithdraw.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Users.FrmAddNewUser.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Users.FrmDeleteUser.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Users.FrmFindUser.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Users.FrmPermissions.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Users.FrmUpdateUser.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Users.FrmUsers.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Forms.Users.FrmUsersList.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.FrmLogin.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.FrmMainMenu.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\C# Projects\Bank\Bank Management System\obj\Debug\BankPresentaionLayer.csproj.GenerateResource.cache
+C:\C# Projects\Bank\Bank Management System\obj\Debug\BankPresentaionLayer.csproj.CoreCompileInputs.cache
+C:\C# Projects\Bank\Bank Management System\obj\Debug\BankPres.C122C541.Up2Date
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank Management System.exe
+C:\C# Projects\Bank\Bank Management System\obj\Debug\Bank Management System.pdb

@@ -130,21 +130,13 @@ namespace Bank_Management_System.Forms.Transactions
                 }
 
                 
-                if (!_Client1.Transfer(fromAcc, toAcc, amount))
+                if (!_Client1.Transfer(fromAcc, toAcc, amount, Global.CurrentUser.Username))
                 {
                     MessageBox.Show("Transfer failed. Please check the balance and try again.", "Error");
                     return;
                 }
 
                 MessageBox.Show($"Amount ${amount} transferred successfully!", "Transferred", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-                TransferLogs log = new TransferLogs();
-                log.Date = DateTime.Now;
-                log.AccountForom = fromAcc;
-                log.AccountTo = toAcc;
-                log.PerformedBy = Global.CurrentUser.Username;
-                log.Amount = amount;
-                log.AddTrnasferLog();
 
                 btnClear.PerformClick();
               
